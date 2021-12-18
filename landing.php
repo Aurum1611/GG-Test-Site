@@ -35,6 +35,8 @@
 
 	include "partials/header.php";
 
+	include "partials/experience-card.php";
+
 	include "partials/footer.php";
 	
 	?>

@@ -3,9 +3,6 @@
     <ul class="topnav">
         <li><a><b>GROWTHGRAVY</b></a></li>
         <li>
-            <hr>
-        </li>
-        <li>
             <form action="" method="get">
                 <select name="type">
                     <option value="coding">CODING</option>

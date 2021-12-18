@@ -15,7 +15,6 @@ body {
 /* Header */
 
 p#covidmsg {
-    width: 100%;
     padding: 20px;
     margin: 0;
     background-color: yellow;
@@ -52,19 +51,19 @@ ul.topnav li a {
 }
 
 ul.topnav li a:hover:not(.active) {
-    background-color: #111;
+    background-color: orange;
 }
 
 ul.topnav li form select {
     padding: 10px;
-    border-radius: 30%;
+    border-radius: 30px;
     display: block;
     margin: auto 0;
 }
 
 ul.topnav li button {
     padding: 10px;
-    border-radius: 30%;
+    border-radius: 30px;
     display: block;
     margin: auto 0;
 }
@@ -89,13 +88,34 @@ div.header>div.grid-content>div.left {
     grid-column-start: 1;
     grid-column-end: 2;
     margin: auto;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 div.header>div.grid-content>dib.right {
     grid-column-start: 2;
     grid-column-end: 3;
     margin: auto;
+}
+
+
+/* Experience Card */
+
+div.exp-card {
+    padding: 30px;
+    border-radius: 25px;
+    margin: -10vh 10% 20vh 10%;
+    background-color: white;
+    text-align: center;
+}
+
+div.exp-card>div.top {
+    padding: 20px;
+}
+
+div.exp-card>div.bottom {
+    background-color: rgb(243, 246, 251);
+    padding: 20px;
+    margin: 0;
 }
 
 
