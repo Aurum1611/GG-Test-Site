@@ -1,0 +1,62 @@
+/*
+
+* File: style.css
+* Author: Neeyat Lotlikar
+* Date: 18/12/2021
+
+*/
+
+
+/* Header */
+
+
+/* Footer */
+
+footer {
+    background-color: rgb(7, 111, 236);
+    color: white;
+}
+
+footer div.footer {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: -10px;
+    padding: 40px;
+    text-align: center;
+    font-size: 21px;
+}
+
+footer>div.footer>div.left {
+    grid-column-start: 1;
+    grid-column-end: 7;
+}
+
+footer>div.footer>div.r1 {
+    grid-column-start: 7;
+    grid-column-end: 10;
+}
+
+footer>div.footer>div.r2 {
+    grid-column-start: 10;
+    grid-column-end: 13;
+}
+
+footer>div.footer>div.hr {
+    grid-column-start: 1;
+    grid-column-end: 13;
+}
+
+footer>div.footer>div.copyrights {
+    grid-column-start: 1;
+    grid-column-end: 7;
+}
+
+footer>div.footer>div.br1 {
+    grid-column-start: 7;
+    grid-column-end: 10;
+}
+
+footer>div.footer>div.br2 {
+    grid-column-start: 10;
+    grid-column-end: 13;
+}
