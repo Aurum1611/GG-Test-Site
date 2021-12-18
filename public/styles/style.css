@@ -77,24 +77,31 @@ ul.topnav li button {
 
 /* Header Content */
 
-div.header>div.grid-content {
+div.grid-content {
     display: grid;
     grid-template-columns: auto auto;
     margin: auto;
     padding: 7% 20px;
 }
 
-div.header>div.grid-content>div.left {
+div.grid-content>div.left {
     grid-column-start: 1;
     grid-column-end: 2;
     margin: auto;
     color: rgb(255, 255, 255);
 }
 
-div.header>div.grid-content>dib.right {
+div.grid-content>dib.right {
     grid-column-start: 2;
     grid-column-end: 3;
     margin: auto;
+}
+
+
+/*this above header content code is not made too specific as it's reused in Classroom Experience styling*/
+
+.header .grid-content img {
+    border-radius: 50px;
 }
 
 
@@ -110,12 +117,37 @@ div.exp-card {
 
 div.exp-card>div.top {
     padding: 20px;
+    height: 60%
 }
 
 div.exp-card>div.bottom {
     background-color: rgb(243, 246, 251);
     padding: 20px;
     margin: 0;
+    height: 40%;
+}
+
+
+/* Parents Slider */
+
+div.parents-slider {
+    background-color: rgb(243, 246, 251);
+    margin: 0;
+    padding: 30px;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+
+/* Classroom Experience */
+
+div.classroom-exp>h1 {
+    text-align: center;
+}
+
+.classroom-exp .grid-content img {
+    border-radius: 15px;
 }
 
 

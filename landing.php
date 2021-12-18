@@ -37,6 +37,10 @@
 
 	include "partials/experience-card.php";
 
+	include "partials/parents-slider.php";
+
+	include "partials/classroom-experience.php";
+
 	include "partials/footer.php";
 	
 	?>
