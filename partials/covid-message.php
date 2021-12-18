@@ -1,0 +1,1 @@
+<p id="covidmsg">In light of covid-19, we're offerring <b>FREE</b> online <b>LIVE</b> classes for ages 6-18. Learn from home 100% safe 🏡🦺</p>
