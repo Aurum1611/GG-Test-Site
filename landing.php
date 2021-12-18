@@ -9,30 +9,35 @@
 */
 
 // Database connection code and any preprocessing will come here.
-	
+
 ?>
 
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>Coding School - Landing Page</title>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<meta name="description" content="">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Coding School - Landing Page</title>
 
-		<link rel="stylesheet" href="public/styles/style.css">
-	</head>
-	<body>
-		<?php
-			include "partials/covid-message.php";
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-			include "partials/header.php";
-		
-			include "partials/footer.php";
-		
-		?>
-	</body>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="public/styles/style.css">
+</head>
+
+<body>
+    <?php
+
+	include "partials/covid-message.php";
+
+	include "partials/header.php";
+
+	include "partials/footer.php";
+	
+	?>
+</body>
+
 </html>

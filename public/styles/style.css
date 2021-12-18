@@ -6,6 +6,10 @@
 
 */
 
+body {
+    font-family: Montserrat, Verdana, Geneva, Tahoma, sans-serif;
+}
+
 
 /* Header */
 
@@ -35,10 +39,10 @@ footer div.footer {
     margin: -10px;
     padding: 40px;
     text-align: center;
-    font-size: 21px;
 }
 
 footer>div.footer>div.left {
+    font-size: 21px;
     grid-column-start: 1;
     grid-column-end: 7;
 }
