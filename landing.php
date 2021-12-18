@@ -8,7 +8,7 @@
 
 */
 
-// Database connection code and any preprocessing will come here.
+// Any preprocessing code will come here.
 
 ?>
 
@@ -40,6 +40,10 @@
 	include "partials/parents-slider.php";
 
 	include "partials/classroom-experience.php";
+
+	include "partials/learning-paths.php";
+
+	include "partials/member-benefits.php";
 
 	include "partials/footer.php";
 	

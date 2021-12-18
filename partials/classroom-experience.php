@@ -5,7 +5,7 @@
             <!-- A few cards will come here. -->
         </div>
         <div class="right">
-            <img src="public/images/programming.jpg" alt="A man programming" width="600px" height="400px">
+            <img src="public/images/programming.jpg" alt="A man programming" width="300px" height="200px">
         </div>
     </div>
 </div>
