@@ -205,8 +205,18 @@ div.learn-paths {
 /* Membership Benefits */
 
 div.member-benefits {
-    height: 100vh;
+    min-height: 100vh;
     text-align: center;
+    margin-bottom: 40px;
+}
+
+div.member-benefits>table {
+    margin: 0 auto;
+}
+
+div.member-benefits>table td,
+div.member-benefits>table th {
+    padding: 10px;
 }
 
 
