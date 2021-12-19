@@ -32,6 +32,12 @@ div.header {
     background-image: linear-gradient(to bottom right, rgb(7, 111, 236), rgb(33, 182, 238));
 }
 
+.header form>select {
+    background-color: rgb(93, 178, 243);
+    color: white;
+    font-family: Montserrat, Verdana, Geneva, Tahoma, sans-serif;
+}
+
 
 /* Navigation */
 
@@ -54,7 +60,7 @@ ul.topnav li a {
     text-decoration: none;
 }
 
-ul.topnav li a:hover:not(.active) {
+ul.topnav li a:hover {
     background-color: orange;
 }
 
@@ -65,11 +71,21 @@ ul.topnav li form select {
     margin: auto 0;
 }
 
-ul.topnav li button {
+ul.topnav li a.special {
     padding: 10px;
     border-radius: 30px;
     display: block;
-    margin: auto 0;
+    margin: auto 10px;
+    color: white;
+    font-family: Montserrat, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#free-trial {
+    background-color: rgb(255, 188, 1);
+}
+
+.blue-login {
+    background-color: rgb(93, 178, 243);
 }
 
 @media screen and (max-width: 600px) {

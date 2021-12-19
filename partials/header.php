@@ -13,9 +13,9 @@
         <li><a href="#community">COMMUNITY</a></li>
         <li><a href="#whyus">WHY US?</a></li>
         <li><a href="#more">MORE</a></li>
-        <li><button>CHAMP</button></li>
-        <li><button>FREE TRIAL</button></li>
-        <li><button>LOG IN</button></li>
+        <li><a class="blue-login special">CHAMP</a></li>
+        <li><a id="free-trial" class="special" href="#freetrial">FREE TRIAL</a></li>
+        <li><a class="blue-login special">LOG IN</a></li>
     </ul>
 
     <div class="grid-content">
