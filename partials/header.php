@@ -34,7 +34,7 @@
         </div>
 
         <div class="right">
-            <img src="public/images/kid-tv-learn.jpg" alt="Kid learning on Tablet" width="400px" height="400px">
+            <img src="public/images/kid-tv-learn.jpg" alt="Kid learning on Tablet" width="450px" height="400px">
         </div>
 
     </div>

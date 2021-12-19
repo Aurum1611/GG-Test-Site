@@ -122,7 +122,6 @@ div.grid-content>div.right {
 
 .header .grid-content img {
     border-radius: 50px;
-    margin-right: -140px;
 }
 
 a#booking {
@@ -300,6 +299,7 @@ div.member-benefits>table {
 div.member-benefits>table td,
 div.member-benefits>table th {
     padding: 10px;
+    text-align: center;
 }
 
 

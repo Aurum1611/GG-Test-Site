@@ -29,79 +29,79 @@
             <td>~12 months</td>
         </tr>
         <tr>
-            <td>💻 1:1 live online classes<br>(instructor of your choice)</td>
+            <td>💻 1:1 live online classes (instructor of your choice)</td>
             <td>36 classes</td>
             <td>72 classes</td>
             <td>144 classes</td>
         </tr>
         <tr>
-            <td>💻 1:1 live online classes<br>(instructor of your choice)</td>
-            <td>36 classes</td>
-            <td>72 classes</td>
-            <td>144 classes</td>
-        </tr>
-    
-        <tr>
-            <td>💻 1:1 live online classes<br>(instructor of your choice)</td>
-            <td>36 classes</td>
-            <td>72 classes</td>
-            <td>144 classes</td>
+            <td>📱 Mobile App with Games, Puzzles, and Quizzes</td>
+            <td>✔</td>
+            <td>✔</td>
+            <td>✔</td>
         </tr>
     
         <tr>
-            <td>💻 1:1 live online classes<br>(instructor of your choice)</td>
-            <td>36 classes</td>
-            <td>72 classes</td>
-            <td>144 classes</td>
+            <td>👩‍🏫 Monthly sessions with experts from Google, Microsoft,<br>Facebook, etc.</td>
+            <td>✔</td>
+            <td>✔</td>
+            <td>✔</td>
         </tr>
     
         <tr>
-            <td>💻 1:1 live online classes<br>(instructor of your choice)</td>
-            <td>36 classes</td>
-            <td>72 classes</td>
-            <td>144 classes</td>
+            <td>🌏 Membership in global kids coder community from 30+ countries</td>
+            <td>✔</td>
+            <td>✔</td>
+            <td>✔</td>
         </tr>
     
         <tr>
-            <td>💻 1:1 live online classes<br>(instructor of your choice)</td>
-            <td>36 classes</td>
-            <td>72 classes</td>
-            <td>144 classes</td>
+            <td>📺 Get featured on Camp K12 TV</td>
+            <td>❌</td>
+            <td>✔</td>
+            <td>✔</td>
         </tr>
     
         <tr>
-            <td>💻 1:1 live online classes<br>(instructor of your choice)</td>
-            <td>36 classes</td>
-            <td>72 classes</td>
-            <td>144 classes</td>
+            <td>💁‍♀️ 24/7 teacher access & coding project support</td>
+            <td>❌</td>
+            <td>✔</td>
+            <td>✔</td>
         </tr>
     
         <tr>
-            <td>💻 1:1 live online classes<br>(instructor of your choice)</td>
-            <td>36 classes</td>
-            <td>72 classes</td>
-            <td>144 classes</td>
+            <td>🎮 Design a 3D Minecraft Game</td>
+            <td>❌</td>
+            <td>✔</td>
+            <td>✔</td>
         </tr>
     
         <tr>
-            <td>💻 1:1 live online classes<br>(instructor of your choice)</td>
-            <td>36 classes</td>
-            <td>72 classes</td>
-            <td>144 classes</td>
+            <td>🚀 Challenge Pack: 4 Advanced Projects</td>
+            <td>❌</td>
+            <td>❌</td>
+            <td>✔</td>
         </tr>
     
         <tr>
-            <td>💻 1:1 live online classes<br>(instructor of your choice)</td>
-            <td>36 classes</td>
-            <td>72 classes</td>
-            <td>144 classes</td>
+            <td>📹 Build your own YouTube App</td>
+            <td>❌</td>
+            <td>❌</td>
+            <td>✔</td>
         </tr>
     
         <tr>
-            <td>💻 1:1 live online classes<br>(instructor of your choice)</td>
-            <td>36 classes</td>
-            <td>72 classes</td>
-            <td>144 classes</td>
+            <td>📲 Publish your app on Google Play Store</td>
+            <td>❌</td>
+            <td>❌</td>
+            <td>✔</td>
+        </tr>
+    
+        <tr>
+            <td>🎙 Code a voice assistant (Alexa/Siri)</td>
+            <td>❌</td>
+            <td>❌</td>
+            <td>✔</td>
         </tr>
     </table>
 
