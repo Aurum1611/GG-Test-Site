@@ -39,6 +39,8 @@
 
 	include "partials/parents-slider.php";
 
+	include "partials/our-courses.php";
+
 	include "partials/classroom-experience.php";
 
 	include "partials/learning-paths.php";

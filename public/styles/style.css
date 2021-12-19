@@ -11,6 +11,10 @@ body {
     margin: 0;
 }
 
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 
 /* Header */
 
@@ -136,6 +140,41 @@ div.parents-slider {
     padding: 30px;
     height: 100vh;
     text-align: center;
+}
+
+
+/* Our Courses */
+
+div.courses {
+    background-color: orange;
+    height: 30vh;
+    padding: 40px;
+    margin: 0;
+    display: grid;
+}
+
+div.courses>h1#grid-left {
+    margin: auto 0;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+div.courses>div.center-card {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    background-color: white;
+    border-radius: 30px;
+    padding: 30px;
+    margin: 30px;
+}
+
+div.courses>div.right-card {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    background-color: white;
+    border-radius: 30px;
+    padding: 30px;
+    margin: 30px;
 }
 
 

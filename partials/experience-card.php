@@ -1,4 +1,4 @@
-<div class="exp-card">
+<div class="exp-card card">
     <div class="top">
         <h2>11+ years of experience. Learn from the pioneers.</h2>
         <!-- Icons will come here. -->
