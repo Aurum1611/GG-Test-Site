@@ -185,25 +185,20 @@ div.parents-slider {
     text-align: center;
 }
 
-a.aligned-center {
-    margin: 10px;
-    padding: 10px;
-    max-width: fit-content;
-}
-
 
 /* Our Courses */
 
 div.courses {
     background-color: orange;
-    height: 30vh;
     padding: 40px;
     margin: 0;
     display: grid;
+    grid-template-columns: auto, auto, auto;
 }
 
 div.courses>h1#grid-left {
     margin: auto 0;
+    margin-left: 30px;
     grid-column-start: 1;
     grid-column-end: 2;
 }
@@ -224,6 +219,10 @@ div.courses>div.right-card {
     border-radius: 30px;
     padding: 30px;
     margin: 30px;
+}
+
+div.courses img {
+    float: right;
 }
 
 
