@@ -182,7 +182,8 @@ div.courses>div.right-card {
 
 div.classroom-exp {
     padding: 30px;
-    height: 100vh;
+    min-height: 100vh;
+    color: black;
 }
 
 div.classroom-exp>h1 {
@@ -191,6 +192,12 @@ div.classroom-exp>h1 {
 
 .classroom-exp .grid-content img {
     border-radius: 15px;
+    margin: auto 20px;
+}
+
+div.classroom-exp div.card-content {
+    color: black;
+    padding: 30px;
 }
 
 
