@@ -230,7 +230,6 @@ div.courses img {
 
 div.classroom-exp {
     padding: 30px;
-    min-height: 100vh;
     color: black;
 }
 
@@ -238,15 +237,36 @@ div.classroom-exp>h1 {
     text-align: center;
 }
 
-.classroom-exp .grid-content img {
+div.classroom-exp>div.grid-content {
+    margin-top: -60px;
+}
+
+.classroom-exp .grid-content div.right {
+    margin: auto 0;
+}
+
+.classroom-exp .grid-content .right img {
     border-radius: 15px;
     margin: auto 20px;
+    box-shadow: 5px 5px 2px gray;
+}
+
+.classroom-exp .grid-content .left img {
+    float: left;
+    margin-right: 20px;
 }
 
 div.classroom-exp div.card-content {
     color: black;
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 10px;
+}
+
+div.classroom-exp div.special {
+    color: rgb(38, 107, 176);
+    border-color: rgb(38, 107, 176);
+    border-style: solid;
+    border-width: 2px;
 }
 
 
