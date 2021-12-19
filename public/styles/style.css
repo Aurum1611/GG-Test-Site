@@ -148,7 +148,7 @@ div.exp-card {
 
 div.exp-card>div.top {
     padding: 20px;
-    height: 60%
+    min-height: 60%
 }
 
 div.exp-card>div.bottom {
@@ -156,6 +156,22 @@ div.exp-card>div.bottom {
     padding: 20px;
     margin: 0;
     height: 40%;
+}
+
+div.exp-card div.icon-container {
+    display: grid;
+}
+
+div.exp-card>div.top>div.icon-container {
+    grid-template-columns: auto auto auto auto auto auto auto;
+}
+
+div.exp-card>div.bottom>div.icon-container {
+    grid-template-columns: auto auto auto auto auto;
+}
+
+div.exp-card div.icon-container>div.item {
+    padding: 10px;
 }
 
 

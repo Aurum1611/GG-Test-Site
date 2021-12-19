@@ -13,7 +13,9 @@
         <li><a href="#community">COMMUNITY</a></li>
         <li><a href="#whyus">WHY US?</a></li>
         <li><a href="#more">MORE</a></li>
-        <li><a class="special">CHAMP</a></li>
+        <li><a class="special"><img height="20px" width="20px"
+                    src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-trophy-reward-and-badges-justicon-flat-justicon.png" />
+            </a></li>
         <li><a id="free-trial" class="special" href="#freetrial">FREE TRIAL</a></li>
         <li><a class="special">LOG IN</a></li>
     </ul>
