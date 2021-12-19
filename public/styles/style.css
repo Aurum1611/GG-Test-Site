@@ -111,7 +111,7 @@ div.grid-content>div.left {
     color: rgb(255, 255, 255);
 }
 
-div.grid-content>dib.right {
+div.grid-content>div.right {
     grid-column-start: 2;
     grid-column-end: 3;
     margin: auto;
@@ -122,6 +122,7 @@ div.grid-content>dib.right {
 
 .header .grid-content img {
     border-radius: 50px;
+    margin-right: -140px;
 }
 
 a#booking {
@@ -180,6 +181,7 @@ div.exp-card div.icon-container>div.item {
 div.parents-slider {
     background-color: rgb(243, 246, 251);
     margin: 0;
+    margin-top: -80px;
     padding: 30px;
     height: 100vh;
     text-align: center;
@@ -275,6 +277,11 @@ div.classroom-exp div.special {
 div.learn-paths {
     height: 100vh;
     text-align: center;
+}
+
+div.learn-paths div.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
 }
 
 
