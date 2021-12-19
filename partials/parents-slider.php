@@ -8,7 +8,7 @@
 
     </div>
 
-    <a href="#">BOOK A FREE CLASS</a>
-    <a href="#">SEE MORE REVIEWS</a>
+    <a class="special aligned-center" href="#">BOOK A FREE CLASS</a>
+    <a class="special aligned-center" href="#">SEE MORE REVIEWS</a>
 
 </div>

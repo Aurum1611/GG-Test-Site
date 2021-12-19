@@ -13,6 +13,7 @@ body {
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
 }
 
 
@@ -71,21 +72,20 @@ ul.topnav li form select {
     margin: auto 0;
 }
 
-ul.topnav li a.special {
+a.special {
     padding: 10px;
     border-radius: 30px;
     display: block;
     margin: auto 10px;
     color: white;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(93, 178, 243);
     font-family: Montserrat, Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #free-trial {
     background-color: rgb(255, 188, 1);
-}
-
-.blue-login {
-    background-color: rgb(93, 178, 243);
 }
 
 @media screen and (max-width: 600px) {
@@ -124,6 +124,17 @@ div.grid-content>dib.right {
     border-radius: 50px;
 }
 
+a#booking {
+    display: block;
+    background-color: orange;
+    padding: 10px 20px;
+    text-align: center;
+    margin: 40px auto 0 auto;
+    color: white;
+    max-width: fit-content;
+    text-decoration: none;
+}
+
 
 /* Experience Card */
 
@@ -156,6 +167,12 @@ div.parents-slider {
     padding: 30px;
     height: 100vh;
     text-align: center;
+}
+
+a.aligned-center {
+    margin: 10px;
+    padding: 10px;
+    max-width: fit-content;
 }
 
 
@@ -213,7 +230,8 @@ div.classroom-exp>h1 {
 
 div.classroom-exp div.card-content {
     color: black;
-    padding: 30px;
+    padding: 20px;
+    margin-top: 20px;
 }
 
 
