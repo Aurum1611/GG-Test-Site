@@ -1,11 +1,13 @@
 <div class="member-benefits">
     <h1>Membership Benefits</h1>
 
-    <button id="g12" class="active">Grade 1-2</button>
-    <button id="g34">Grade 3-4</button>
-    <button id="g56">Grade 5-6</button>
-    <button id="g78">Grade 7-8</button>
-    <button id="g9tw">Grade 9-12</button>
+    <div class="buttons">
+        <button id="g12" class="active">Grade 1-2</button>
+        <button id="g34">Grade 3-4</button>
+        <button id="g56">Grade 5-6</button>
+        <button id="g78">Grade 7-8</button>
+        <button id="g9tw">Grade 9-12</button>
+    </div>
 
     <table border="1px" align="center">
         <tr>
@@ -46,63 +48,63 @@
             <td>✔</td>
             <td class="premium">✔</td>
         </tr>
-    
+
         <tr>
             <td class="row-header">👩‍🏫 Monthly sessions with experts from Google, Microsoft,<br>Facebook, etc.</td>
             <td>✔</td>
             <td>✔</td>
             <td class="premium">✔</td>
         </tr>
-    
+
         <tr>
             <td class="row-header">🌏 Membership in global kids coder community from 30+ countries</td>
             <td>✔</td>
             <td>✔</td>
             <td class="premium">✔</td>
         </tr>
-    
+
         <tr>
             <td class="row-header">📺 Get featured on Camp K12 TV</td>
             <td>❌</td>
             <td>✔</td>
             <td class="premium">✔</td>
         </tr>
-    
+
         <tr>
             <td class="row-header">💁‍♀️ 24/7 teacher access & coding project support</td>
             <td>❌</td>
             <td>✔</td>
             <td class="premium">✔</td>
         </tr>
-    
+
         <tr>
             <td class="row-header">🎮 Design a 3D Minecraft Game</td>
             <td>❌</td>
             <td>✔</td>
             <td class="premium">✔</td>
         </tr>
-    
+
         <tr>
             <td class="row-header">🚀 Challenge Pack: 4 Advanced Projects</td>
             <td>❌</td>
             <td>❌</td>
             <td class="premium">✔</td>
         </tr>
-    
+
         <tr>
             <td class="row-header">📹 Build your own YouTube App</td>
             <td>❌</td>
             <td>❌</td>
             <td class="premium">✔</td>
         </tr>
-    
+
         <tr>
             <td class="row-header">📲 Publish your app on Google Play Store</td>
             <td>❌</td>
             <td>❌</td>
             <td class="premium">✔</td>
         </tr>
-    
+
         <tr>
             <td class="row-header">🎙 Code a voice assistant (Alexa/Siri)</td>
             <td>❌</td>
