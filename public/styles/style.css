@@ -16,6 +16,12 @@ body {
     border-radius: 15px;
 }
 
+.responsive-img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
 button {
     padding: 10px;
     border-radius: 30px;
@@ -523,6 +529,9 @@ footer>div.footer>div.br2 {
         height: fit-content;
         text-align: center;
     }
+    div.header div.grid-content img {
+        padding: 20px;
+    }
     div.grid-content {
         display: block;
     }
@@ -545,8 +554,6 @@ footer>div.footer>div.br2 {
     }
     /* Classroom Experience */
     .classroom-exp .grid-content .right img {
-        width: 300px;
-        height: 200px;
         margin: 20px;
     }
     .classroom-exp .left {
@@ -567,5 +574,18 @@ footer>div.footer>div.br2 {
     /* Member Benefits */
     div.member-benefits {
         margin-left: -15px;
+    }
+    div.member-benefits>table td,
+    div.member-benefits>table th {
+        padding: 3px;
+        width: 100%;
+        max-width: 400px;
+        height: auto;
+    }
+    /* Footer */
+    footer div.footer {
+        width: 100%;
+        max-width: 400px;
+        height: auto;
     }
 }

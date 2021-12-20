@@ -36,7 +36,7 @@
         </div>
 
         <div class="right">
-            <img src="public/images/programming.jpg" alt="A man programming" width="600px" height="400px">
+            <img class="responsive-img" src="public/images/programming.jpg" alt="A man programming">
         </div>
 
     </div>
