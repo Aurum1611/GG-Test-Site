@@ -1,11 +1,11 @@
 <div class="member-benefits">
     <h1>Membership Benefits</h1>
 
-    <button class="g12 active">Grade 1-2</button>
-    <button class="g34">Grade 3-4</button>
-    <button class="g56">Grade 5-6</button>
-    <button class="g78">Grade 7-8</button>
-    <button class="g9tw">Grade 9-12</button>
+    <button id="g12" class="active">Grade 1-2</button>
+    <button id="g34">Grade 3-4</button>
+    <button id="g56">Grade 5-6</button>
+    <button id="g78">Grade 7-8</button>
+    <button id="g9tw">Grade 9-12</button>
 
     <table border="1px" align="center">
         <tr>
