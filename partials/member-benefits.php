@@ -14,12 +14,18 @@
             </th>
             <th>
                 <h4>BEGINNER</h4>
+                <p>₹833/class</p>
+                <p>₹29,999 <strike>33,999</strike> <em>2% off</em></p>
             </th>
             <th>
                 <h4>ADVANCED</h4>
+                <p>₹763/class</p>
+                <p>₹54,999 <strike>68,999</strike> <em>12% off</em></p>
             </th>
             <th>
                 <h4>MASTERY</h4>
+                <p>₹690/class</p>
+                <p>₹99,999 <strike>1,19,999</strike> <em>25% off</em></p>
             </th>
         </tr>
         <tr>

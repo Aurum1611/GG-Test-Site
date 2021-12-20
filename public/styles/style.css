@@ -314,12 +314,11 @@ footer div.footer {
 div.social-links>a {
     display: inline-block;
     text-decoration: none;
-    padding: 0 20px;
+    padding: 0 10px;
     color: transparent;
 }
 
 footer>div.footer>div.left {
-    font-size: 21px;
     grid-column-start: 1;
     grid-column-end: 7;
     text-align: left;
@@ -336,7 +335,7 @@ footer>div.footer>div.r2 {
     grid-column-start: 10;
     grid-column-end: 13;
     text-align: left;
-    font-size: smaller;
+    font-size: small;
 }
 
 footer>div.footer>div.hr {
@@ -354,12 +353,14 @@ footer>div.footer>div.br1 {
     grid-column-start: 7;
     grid-column-end: 10;
     text-align: left;
+    font-size: small;
 }
 
 footer>div.footer>div.br2 {
     grid-column-start: 10;
     grid-column-end: 13;
     text-align: left;
+    font-size: small;
 }
 
 
@@ -369,5 +370,29 @@ footer>div.footer>div.br2 {
     /* Header */
     ul.topnav li {
         float: none;
+    }
+    .header form>select {
+        text-align: center;
+        margin: 0 auto;
+    }
+    div.header {
+        height: fit-content;
+        text-align: center;
+    }
+    div.grid-content {
+        display: block;
+    }
+    /* Experience Card */
+    div.exp-card div.icon-container {
+        display: block;
+    }
+    /*Our Courses*/
+    div.courses {
+        display: block;
+        position: relative;
+    }
+    div.courses>h1#grid-left {
+        margin: auto 0;
+        text-align: center;
     }
 }
