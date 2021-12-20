@@ -1,7 +1,7 @@
 <div class="member-benefits">
     <h1>Membership Benefits</h1>
 
-    <button class="g12">Grade 1-2</button>
+    <button class="g12 active">Grade 1-2</button>
     <button class="g34">Grade 3-4</button>
     <button class="g56">Grade 5-6</button>
     <button class="g78">Grade 7-8</button>

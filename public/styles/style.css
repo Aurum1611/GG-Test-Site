@@ -16,6 +16,40 @@ body {
     border-radius: 15px;
 }
 
+button {
+    padding: 10px;
+    border-radius: 30px;
+    display: inline-block;
+    margin: auto 10px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    font-family: Montserrat, Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(7, 110, 241);
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(7, 110, 241);
+}
+
+button.active {
+    color: white;
+    background-color: rgb(7, 110, 241);
+    border-style: none;
+}
+
+button:hover:not(.active) {
+    color: orange;
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: orange;
+}
+
+button.active:hover {
+    background-color: orange;
+}
+
 
 /* Header */
 

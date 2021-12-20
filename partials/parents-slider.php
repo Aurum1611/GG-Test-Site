@@ -9,8 +9,8 @@
     </div>
 
     <div class="parents-links">
-        <a class="" href="#">BOOK A FREE CLASS</a>
-        <a class="" href="#">SEE MORE REVIEWS</a>
+        <button class="active">BOOK A FREE CLASS</a>
+        <button>SEE MORE REVIEWS</a>
     </div>
 
 </div>
