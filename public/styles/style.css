@@ -284,16 +284,36 @@ div.member-benefits {
     min-height: 100vh;
     text-align: center;
     margin-bottom: 40px;
+    background-color: rgb(243, 246, 251);
 }
 
 div.member-benefits>table {
     margin: 0 auto;
+    border-color: rgb(243, 246, 251);
 }
 
 div.member-benefits>table td,
 div.member-benefits>table th {
     padding: 10px;
     text-align: center;
+    background-color: white;
+}
+
+div.member-benefits>table th#unwanted-header {
+    border-width: 0;
+    background-color: rgb(243, 246, 251);
+}
+
+div.member-benefits>table td.row-header {
+    background-color: rgb(243, 246, 251);
+}
+
+div.member-benefits>table th.premium {
+    background-color: rgb(242, 201, 77);
+}
+
+div.member-benefits>table td.premium {
+    background-color: rgb(255, 246, 217);
 }
 
 
