@@ -88,12 +88,6 @@ a.special {
     background-color: rgb(255, 188, 1);
 }
 
-@media screen and (max-width: 600px) {
-    ul.topnav li {
-        float: none;
-    }
-}
-
 
 /* Header Content */
 
@@ -315,23 +309,34 @@ footer div.footer {
     grid-template-columns: auto auto auto;
     margin: 0;
     padding: 40px;
-    text-align: center;
+}
+
+div.social-links>a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 0 20px;
+    color: transparent;
 }
 
 footer>div.footer>div.left {
     font-size: 21px;
     grid-column-start: 1;
     grid-column-end: 7;
+    text-align: left;
 }
 
 footer>div.footer>div.r1 {
     grid-column-start: 7;
     grid-column-end: 10;
+    text-align: left;
+    font-size: small;
 }
 
 footer>div.footer>div.r2 {
     grid-column-start: 10;
     grid-column-end: 13;
+    text-align: left;
+    font-size: smaller;
 }
 
 footer>div.footer>div.hr {
@@ -342,14 +347,27 @@ footer>div.footer>div.hr {
 footer>div.footer>div.copyrights {
     grid-column-start: 1;
     grid-column-end: 7;
+    text-align: left;
 }
 
 footer>div.footer>div.br1 {
     grid-column-start: 7;
     grid-column-end: 10;
+    text-align: left;
 }
 
 footer>div.footer>div.br2 {
     grid-column-start: 10;
     grid-column-end: 13;
+    text-align: left;
+}
+
+
+/* Different Screen Sizes Response */
+
+@media screen and (max-width: 600px) {
+    /* Header */
+    ul.topnav li {
+        float: none;
+    }
 }
